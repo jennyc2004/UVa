@@ -1,17 +1,29 @@
 # UVa
 chapter1=========================
 11172, 11498, 11727(very easy)
+
 10114, 11559, 11799(easy)
+
 00573, 10141, 11507(medium)
+
 00462, 10646, 12247(card)
+
 00278, 00696, 10284(chess)
+
 00489, 10189, 11459(game easier)
+
 00584, 10443, 10813(game tedious)
+
 00401, 10945, 11221(palindrome)
+
 00156, 00195, 00454(Anagram)
+
 00161, 00637, 10812(real life easier)
+
 00403, 00608, 01061(real life tedious)
+
 00579, 00893, 11947(time)
+
 00556, 12060, 12085(time waster)
 chapter 2===========================
 ch2_01_array_vector.cpp, ch2_02_algorithm_collections.cpp(sorting.html), ch5_06_primes.cpp, ch2_03_bit_manipulation.cpp(bitmask.html), ch2_04_stack_queue.cpp(list.html), ch2_05_map_set.cpp(bst.html), ch2_06_priority_queue.cpp(heap.html), ch2_07_graph_ds.cpp(graphds.html), ch2_08_unionfind_ds.cpp(ufds.html), ch2_09_segmenttree_ds.cpp(sdgmenttree.html), ch2_10_fenwicktree_ds.cpp(bit.html)
